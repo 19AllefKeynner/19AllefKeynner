@@ -2,8 +2,8 @@
 
   ### Sobre mim
 <div style="display: inline_block"  >
-<p> - 👨‍🎓 Estudante de programação, atualmente python. </p>
-<p> - 🎯 Interesses: SQL,HTML e CSS, Django. </p>
+<p> - 👨‍🎓 Estudante de programação, atualmente python e HTML e CSS. </p>
+<p> - 🎯 Interesses: SQL, Django. </p>
 
 </div>
 
