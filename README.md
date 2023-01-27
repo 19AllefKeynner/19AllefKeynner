@@ -3,7 +3,7 @@
   ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍🎓 Estudante de programação, atualmente python. </p>
-<p> - 🎯 Interesses: SQL, Django. </p>
+<p> - 🎯 Interesses: SQL,HTML e CSS, Django. </p>
 
 </div>
 
