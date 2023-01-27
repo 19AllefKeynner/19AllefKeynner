@@ -1,39 +1,41 @@
   ### Olá, Eu sou o Allef Keynner! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-  ### Sobre mim
+  ### Sobre mim:
 <div style="display: inline_block"  >
-<p> - 👨‍🎓 Estudante de programação, atualmente python e HTML e CSS. </p>
+<p> - 👨‍💻 Estudante de programação, atualmente python e HTML e CSS. </p>
 <p> - 🎯 Interesses: SQL, Django. </p>
+<p> - 😄Pronouns: ele/dele
 
 </div>
 
 <div align="center">
   <a href="https://github.com/19AllefKeynner">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=19AllefKeynner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19AllefKeynner&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=19AllefKeynner&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19AllefKeynner&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   
 
-## Minhas skills :nerd_face:
-<div align="center">
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
+  <div align="center">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 
    
 </div>
 
-## Meus contatos :iphone:
+## Meus contatos 📧:
 
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/19AllefKeynner">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/19AllefKeynner">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:allef18@icloud.com">
-        <img src="https://img.shields.io/badge/-iCloud-blue?style=for-the-badge&logo=appveyor">
+    <a href="https://www.instagram.com/keynner_allef/">
+        <img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href="https://wa.me/5573991115214">
+        <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <a href="#">
+        <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="#">
+        <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
