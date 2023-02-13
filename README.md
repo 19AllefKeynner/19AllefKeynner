@@ -4,7 +4,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Estudante de programação, atualmente python e HTML e CSS. </p>
 <p> - 🎯 Interesses: SQL, Django. </p>
-<p> - 😄Pronouns: ele/dele
+<p> - 😄Pronouns: ele/dela
 
 </div>
 
