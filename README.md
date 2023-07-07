@@ -2,8 +2,7 @@
 
   ### Sobre mim:
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Estudante de programação, atualmente python e HTML e CSS. </p>
-<p> - 🎯 Interesses: SQL, Django. </p>
+<p> - 👨‍💻 Estudante de programação, atualmente HTML, CSS e Js. </p>
 <p> - 😄Pronouns: ele/dela
 
 </div>
